@@ -94,7 +94,6 @@ foreach ($ageCounts as $age => $count) {
 
 // Convert the data to JSON format
 $jsonData = json_encode($responseData);
-echo $jsonData;
 ?>
 
 
